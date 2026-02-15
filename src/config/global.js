@@ -317,6 +317,12 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
+          nombre: 'Cristian Fernando Martínez Sánchez',
+          cargo: 'Desarrollador <i>full stack</i>',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
           nombre: 'Adriana Marcela Suárez Eljure',
           cargo: 'Producción audiovisual',
           centro:
