@@ -22,7 +22,7 @@
           #t_2_1.titulo-segundo.color-acento-contenido
             h2(data-aos="zoom-in") 2.1 Concepto de cargos diferidos
 
-          .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="zoom-in")
+          .bloque-texto-g.color-acento.p-3.p-sm-4.p-md-5(data-aos="zoom-in")
             .bloque-texto-g__img(
               :style="{'background-image': `url(${require('@/assets/curso/tema2/img2.png')})`}"
             )
@@ -267,7 +267,7 @@
 
     .row.justify-content-center.mt-4
       .col-sm-6.col-lg-5.mb-4.mb-lg-0
-        .tarjeta--boton.bg-t1-4.p-5.h-100(data-aos="zoom-in")
+        .tarjeta--boton.bg-t1-9.p-5.h-100(data-aos="zoom-in")
           .row.justify-content-center.mb-3
             .col-3
               figure
@@ -280,7 +280,7 @@
 
 
       .col-sm-6.col-lg-5.mb-4.mb-lg-0
-        .tarjeta--boton.bg-t1-5.p-5.h-100(data-aos="zoom-in")
+        .tarjeta--boton.bg-t1-9.p-5.h-100(data-aos="zoom-in")
           .row.justify-content-center.mb-3
             .col-3
               figure
