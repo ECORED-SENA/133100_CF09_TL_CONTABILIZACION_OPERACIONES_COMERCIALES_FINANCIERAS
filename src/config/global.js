@@ -251,7 +251,8 @@ export default {
     {
       referencia:
         'SUIN Juriscoop. (2020, 10 de diciembre).Decreto 2784 de diciembre 2012.',
-      link: 'http://suin.gov.co/viewDocument.asp?id=1776952',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=75511',
     },
     {
       referencia: 'CTCP (2020, 10 de diciembre). NIC 16',
