@@ -13,7 +13,7 @@
           .row.justify-content-center.align-items-center 
             .col-lg-8
               .row.bg-t1-1.p-4
-                p Los cargos diferidos se pueden dividir en dos partes: diferidos propiamente dicho y los gastos pagados por anticipado.
+                p Los cargos diferidos se pueden dividir en dos partes: <b>diferidos propiamente dichos</b> y los <b>gastos pagados por anticipado</b>.
             .col-lg-4.d-none.d-lg-block
               figure
                 img(src='@/assets/curso/tema2/img1.png', alt='', style="width: 295px").m-auto
@@ -73,11 +73,11 @@
               .row.bg-t2-2.p-2
                 p El párrafo 68 NIC 38: activos intangibles (Grupo 1) no impide que la entidad reconozca un pago anticipado como activo, cuando el pago por los bienes se haya realizado antes de que la entidad obtenga el derecho de acceso a esos bienes.
 
-                p Los desembolsos sobre un activo intangible, reconocidos inicialmente como gastos del periodo no se reconocerán posteriormente como parte del costo de un activo intangible.
+                p Los desembolsos sobre un activo intangible, reconocidos inicialmente como gastos del periodo, no se reconocerán posteriormente como parte del costo de un activo intangible.
 
           p.mt-4 #[b Ejemplo:]
 
-          p Párrafo 28 NIC 38 Activos intangibles: a) los costos de introducción de un nuevo producto o servicio (incluyendo los costos de actividades publicitarias y promocionales); b) los costos de apertura del negocio en una nueva localización o dirigirlo a un nuevo segmento de clientela (incluyendo los costos de formación del personal); y (c) los costos de administración y otros costos indirectos generales.
+          p Párrafo 28 NIC 38 Activos intangibles: a) los costos de introducción de un nuevo producto o servicio (incluyendo los costos de actividades publicitarias y promocionales); b) los costos de apertura del negocio en una nueva localización o dirigirlo a un nuevo segmento de clientela (incluyendo los costos de formación del personal); y c) los costos de administración y otros costos indirectos generales.
 
           .row.justify-content-center.mt-4
             .col-sm-6.col-lg-5.mb-4.mb-lg-0
@@ -87,8 +87,8 @@
                     figure
                       img(src='@/assets/curso/tema2/img5.svg', style="width:90px")
 
-                h4 Medición posterior al modelo del costo
-                p La medición posterior de un activo intangible se contabilizará por su costo menos el valor de la amortización acumulada y las pérdidas por deterioro del activo contempladas en el párrafo 74 de la NIC 38.
+                h4.text-white Medición posterior al modelo del costo
+                p.text-white La medición posterior de un activo intangible se contabilizará por su costo menos el valor de la amortización acumulada y las pérdidas por deterioro del activo contempladas en el párrafo 74 de la NIC 38.
 
             .col-sm-6.col-lg-5.mb-4.mb-lg-0
               .tarjeta--boton.bg-t1-5.p-4.h-100(data-aos="zoom-in")
@@ -287,7 +287,7 @@
                 img(src='@/assets/curso/tema2/img10.svg', style="width:90px")
 
           h4 Revelación
-          p La revelación de los activos intangibles debe incluir: las bases de medición, el método de amortización, las vidas útiles o las tasas de amortización utilizadas, conciliación de los movimientos del período para cada clase de activo intangible, método de medición (Costo / revaluación), desembolsos por investigación y desarrollo entre otros.
+          p La revelación de los activos intangibles debe incluir: las bases de medición, el método de amortización, las vidas útiles o las tasas de amortización utilizadas, conciliación de los movimientos del período para cada clase de activo intangible, método de medición (costo / revaluación), desembolsos por investigación y desarrollo, entre otros.
 
        
 </template>

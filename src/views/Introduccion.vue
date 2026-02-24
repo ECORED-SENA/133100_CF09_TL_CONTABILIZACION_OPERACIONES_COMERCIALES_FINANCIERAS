@@ -22,7 +22,7 @@
 
           .row.justify-content-center.mt-4 
             .col-lg-8
-              p.p-4.bg-intro2(data-aos="fade-left") #[b Nota aclaratoria:] las tablas que se toman como referencia en los ejemplos de cada uno de los temas desarrollados, elaboradas mediante el programa Excel son derivadas de estos ejercicios, la elaboración es propia del autor del presente componente, por lo tanto, no se numeran y no se establece un nombre específico.
+              p.p-4.bg-intro2(data-aos="fade-left") #[b Nota aclaratoria:] las tablas que se toman como referencia en los ejemplos de cada uno de los temas desarrollados, elaboradas mediante el programa Excel, son derivadas de estos ejercicios; la elaboración es propia del autor del presente componente, por lo tanto, no se numeran y no se establece un nombre específico.
             .col-lg-4.d-none.d-lg-block
               figure(data-aos="fade-left")
                 img(src='@/assets/curso/intro/img1.png', alt='', style="width: 480px").m-auto
