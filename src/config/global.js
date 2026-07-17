@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Activos intangibles',
     Description:
-      'Hallar valor en un panorama empresarial tan cambiante donde<br> tradicionalmente los recursos de la empresa eran cosas que se podían palpar, como un edificio, una máquina, un vehículo, un terreno, sobre lo que las empresas centran su atención; pero con el paso del tiempo, los procesos, las relaciones y los modelos comerciales han evolucionado, y es así como las empresas invierten cada vez más en activos intangibles, no solamente en una computadora, un software, sino también en la investigación, innovación, la marca, el diseño organizacional, el conocimiento, las relaciones, entre otros. Por lo anterior, en el presente componente se analiza el tratamiento contable de los activos intangibles y diferidos, de acuerdo con los criterios establecidos en las Normas Internacionales de Información Financiera.',
+      'Hallar valor en un panorama empresarial tan cambiante donde tradicionalmente los recursos de la empresa eran cosas que se podían palpar, como un edificio, una máquina, un vehículo, un terreno, sobre lo que las empresas centran su atención; pero con el paso del tiempo, los procesos, las relaciones y los modelos comerciales han evolucionado, y es así como las empresas invierten cada vez más en activos intangibles, no solamente en una computadora, un software, sino también en la investigación, innovación, la marca, el diseño organizacional, el conocimiento, las relaciones, entre otros. Por lo anterior, en el presente componente se analiza el tratamiento contable de los activos intangibles y diferidos, de acuerdo con los criterios establecidos en las Normas Internacionales de Información Financiera.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -163,7 +163,7 @@ export default {
     {
       termino: 'Activo',
       significado:
-        'Es la distribución sistemática del importe depreciable del activo intangible durante la vida útil; el activo útil es un recurso controlado por la entidad como resultado de sucesos pasados y del que la entidad espera obtener beneficios económicos futuros. (IFRS, 2008, pág. 3)',
+        'recurso controlado por una entidad como resultado de sucesos pasados, del que se espera obtener beneficios económicos futuros.',
     },
     {
       termino: 'Activo intangible',
@@ -250,7 +250,7 @@ export default {
     },
     {
       referencia:
-        'SUIN Juriscoop. (2020, 10 de diciembre).Decreto 2784 de diciembre 2012.',
+        'SUIN Juriscoop. (2020, 10 de diciembre). Decreto 2784 de diciembre 2012.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=75511',
     },
@@ -275,8 +275,9 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Johanna Gomez Perez',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: ' Centro Agroturístico- Regional Santander',
         },
         {
